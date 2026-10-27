@@ -8,9 +8,6 @@ This creates `.venv`, installs the demo dependencies, starts the API, and opens 
 To request different starting ports, set `CARECONNECT_API_PORT` and/or `CARECONNECT_STREAMLIT_PORT` before running the launcher. Each launcher checks for a free port beginning at the requested value.
 
 
-- [Codelabs](https://codelabs-preview.appspot.com/?file_id=12xSA54puYEnSkJqp-kGrLlwYCNaAwCsE7-ozc-PrYOQ#0)
-- [Demo, Youtube](https://www.youtube.com/watch?v=PVPjS4fYrCw)
-
 
 ## Overview
 Our project presents an innovative Healthcare Recommendation and Management System, designed to enhance the healthcare experience for both patients and medical professionals. By integrating advanced technologies like AI-driven data analysis, vector databases, and automated data processing workflows, this system aims to simplify the complexity of healthcare decision-making.
